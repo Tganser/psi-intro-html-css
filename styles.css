@@ -1,0 +1,24 @@
+body {
+  background-color: tomato;
+}
+
+footer {
+  background-color: aliceblue;
+}
+
+.container {
+  border-width: 2px;
+  border-style: solid;
+}
+
+#nav-bar{
+  font-family: monospace;
+}
+
+#first-span{
+  font-family: cursive;
+}
+
+a {
+  text-decoration: none;
+}
